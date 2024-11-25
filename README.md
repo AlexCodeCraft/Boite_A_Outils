@@ -13,23 +13,5 @@ Chaque outil a ses propres fonctionnalités, et les emprunts d'outils par des ut
 ---
 
 ## Architecture du Projet
-📂 PROJET_BOITE_A_OUTILS
-│
-├── 📂 data
-│ └── toolbox.csv - Le fichier source contenant les outils disponibles.
-│
-├── 📂 gestion
-│ └── gestion_tools.py - Gestion des emprunts et restitutions.
-│
-├── 📂 menu
-│ └── menu.py - Menu interactif pour l'utilisateur.
-│
-├── 📂 outils
-│ ├── outil.py - Classe principale Outil.
-│ ├── tournevis.py - Classe pour les tournevis.
-│ ├── marteau.py - Classe pour les marteaux.
-│ ├── cle_plate.py - Classe pour les clés plates.
-│ ├── perceuse.py - Classe pour les perceuses.
-│ └── foret.py - Classe pour les forêts.
-│
-└── main.py - Point d'entrée du programme.
+![image](https://github.com/user-attachments/assets/b86818bd-c9d1-4aa1-ab36-131f3990085c)
+
